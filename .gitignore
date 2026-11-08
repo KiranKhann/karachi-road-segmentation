@@ -1,0 +1,15 @@
+# datasets that are re-downloaded by the notebooks / scripts
+data/kvasir_seg_download/
+data/karachi_raw/*.jpg
+data/karachi_pseudo/
+data/synthetic_shapes/
+
+# large training artefacts
+outputs/**/*.pt
+outputs/karachi/*_segformer_label.png
+
+# python / jupyter noise
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/

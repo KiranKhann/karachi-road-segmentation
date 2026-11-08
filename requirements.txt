@@ -1,0 +1,11 @@
+torch>=2.2
+torchvision
+transformers>=4.40
+numpy
+pandas
+pillow
+matplotlib
+opencv-python>=4.8
+jupyter
+nbconvert
+ipykernel

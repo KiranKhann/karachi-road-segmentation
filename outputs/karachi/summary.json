@@ -1,0 +1,41 @@
+{
+ "n_images": 22,
+ "mean_segformer_confidence": 0.945,
+ "low_confidence_pixel_fraction": 0.02,
+ "model_pixel_agreement": 0.83,
+ "top5_pixel_share": {
+  "building": 0.225,
+  "road": 0.222,
+  "sky": 0.196,
+  "vegetation": 0.109,
+  "car": 0.085
+ },
+ "instances_total": {
+  "car": 213,
+  "motorcycle": 11,
+  "bus": 2,
+  "truck": 3,
+  "bicycle": 36,
+  "person": 197,
+  "rider": 44
+ },
+ "two_wheeler_ratio_motorcycle_plus_bicycle": 0.18,
+ "least_confident_classes": [
+  "fence",
+  "terrain",
+  "wall",
+  "traffic sign"
+ ],
+ "most_confident_classes": [
+  "sky",
+  "road",
+  "building"
+ ],
+ "busiest_image_by_instances": "karachi_14.jpg",
+ "anonymisation": {
+  "faces_blurred": 50,
+  "plates_blurred": 5,
+  "people_mosaiced": 241,
+  "vehicle_plate_zones": 75
+ }
+}
