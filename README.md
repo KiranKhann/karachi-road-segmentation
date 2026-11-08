@@ -1,6 +1,6 @@
 # Segmentation assignment — UNet/UNet++, Cityscapes → Karachi, CVPR 2025 & ICML 2024
 
-Start with **[REPORT.md](REPORT.md)** — it contains the paper summaries, the Cityscapes observations, the
+Start with **[REPORT.pdf](REPORT.pdf)** (the submitted report) or its Markdown source **[REPORT.md](REPORT.md)** — paper summaries, the Cityscapes observations, the
 experimental results of both notebooks and the state‑of‑the‑art survey.
 
 ```
