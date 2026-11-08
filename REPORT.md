@@ -1,6 +1,14 @@
 # Image Segmentation Assignment — UNet / UNet++, Cityscapes & Karachi Roads, and the State of the Art
 
-*Prepared 8 November 2026. Everything in this folder was produced and executed on a Windows 11 laptop with an RTX 4050 (6 GB), Python 3.14, PyTorch 2.14 (CUDA 12.6), Transformers 5.19.*
+| | |
+|---|---|
+| **Student** | Kiran Khan |
+| **Enrollment No.** | K26-7604 |
+| **Subject** | Advanced AI |
+| **Section** | A |
+| **Submitted** | 8 November 2026 |
+
+*Everything in this folder was produced and executed on a Windows 11 laptop with an RTX 4050 (6 GB), Python 3.14, PyTorch 2.14 (CUDA 12.6), Transformers 5.19.*
 
 | Deliverable | Where |
 |---|---|
